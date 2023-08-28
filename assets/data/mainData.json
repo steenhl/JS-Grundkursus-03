@@ -1,0 +1,18 @@
+{
+	"nav": {
+		"navDomStart": "<nav class='main-nav-cl' id='main-nav'>",
+		"navDomEnd": "</nav'>"
+	},
+	"ul": {
+		"ulDomStart": "<ul>",
+		"ulDomEnd": "</ul>"
+	},
+	"navList": [
+		{
+			"item": "<li id='calculater' class='main-nav-li'><a class='main-nav-link' href='./calculater/index.html' >calculater</a></li>"
+		},
+		{
+			"item": "<li id='jstypes' class='main-nav-li'><a class='main-nav-link' href='./js-types/index.html'>JS types</a></li>"
+		}
+	]
+}
